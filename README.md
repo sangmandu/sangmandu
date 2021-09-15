@@ -24,9 +24,11 @@
 
 ### Stack
 ![TIL](https://img.shields.io/badge/Python-AEA5D4?style=flat)
+![TIL](https://img.shields.io/badge/dlib-F186A4?style=flat)
+![TIL](https://img.shields.io/badge/opencv-F186A4?style=flat)
 ![TIL](https://img.shields.io/badge/Pytorch-F186A4?style=flat)
 ![TIL](https://img.shields.io/badge/NLP-DF8AB6?style=flat)
-
+![TIL](https://img.shields.io/badge/CV-DF8AB6?style=flat)
 
 ### What I Did
 > 2021
