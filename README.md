@@ -15,7 +15,7 @@
 * 👟 Programmers AI School 1st(20.11.30~21.04.04)
 * 👟 단국대학교 자동차 보안 연구실 (20.03.02~21.11.30)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sangmandu" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=radical" height="165">
 
 ### What I Like
 * 🏓 : Playing Pingpong (from 2015)
