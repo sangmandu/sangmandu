@@ -40,7 +40,7 @@
 * “탈 중앙 데이터 거래 환경에서의 암호 데이터 중복 처리 기술 연구” 과제의 개발 산출물 중 “차량 내부 데이터 특징 분석 및 획득 방법”에 대한 기술보고서이다.
 
 🪐 [Inpainting Project](https://github.com/sangmandu/4SHARP) (20. 06. 24. | 20. 12. 17. )
-* OpenCV 등의 라이브러리와 MaskRCNN, Generative Inpainting 모델을 이용하여 이미지에서 특정 사람을 인식하여 마스크를 제공하고 선택된 인물을 제거 후 배경을 예측하여 자연스러운 결과의 이미지를 제공하는모바일 서비스 제작한 프로젝트이다.
+* OpenCV 등의 라이브러리와 MaskRCNN, Generative Inpainting 모델을 이용하여 이미지에서 특정 사람을 인식하여 마스크를 제공하고 선택된 인물을 제거 후 배경을 예측하여 자연스러운 결과의 이미지를 제공하며 이를 모바일 서비스 프로젝트이다.
 
 🪐 [Eyetracking Project](https://github.com/sangmandu/eyetracking) (20. 02. 01. | 20. 06. 30. )
 * OpenCV, dlib 등의 라이브러리와 Blink 모델을 이용하여 손을 쓰지 않고 동공의 움직임, 깜빡임과 얼굴의 방향 전환으로 컴퓨터를 조작하는컴퓨팅 환경 프로그램 제작한 프로젝트이다.
