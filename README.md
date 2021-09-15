@@ -18,7 +18,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" height="165">
 
 ### What I Like
-* 🏓 : Playing Pingpong (from 2015)
+* 🏓 : Playing Pingpong as sports for all
 * 👨‍👦‍👦 : Hanging with Friends
 * 🍽 : Famous Food Tour
 
