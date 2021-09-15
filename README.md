@@ -13,7 +13,7 @@
 ### Road I Have Walked
 * 👟 AI BoostCamp 2st (21.08.02~)
 * 👟 Programmers AI School 1st(20.11.30~21.04.04)
-* 👟 단국대학교 자동차 보안 연구실 (20.03.02~21.11.30)
+* 👟 단국대학교 자동차 보안 연구실 (20.03.02~21.11.27)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" height="165">
 
