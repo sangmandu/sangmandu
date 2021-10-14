@@ -1,7 +1,8 @@
 # Sangmandu 🌌
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmandu%2Fhit-counter&count_bg=%23438C76&title_bg=%2332A863&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sangmandu)
-[![TIL](https://img.shields.io/badge/TIL-00ACEE?style=flat)](https://sangmandu.gitbook.io/til/)
-[![MAIL](https://img.shields.io/badge/MAIL-0055FF?style=flat)](mailto:toxj17@naver.com)
+[![TIL](https://img.shields.io/badge/TIL:Gitbook-00ACBB?style=flat)](https://sangmandu.gitbook.io/til/)
+[![TIL](https://img.shields.io/badge/TIL:Velog-00ACEE?style=flat)](https://velog.io/@sangmandu)
+[![MAIL](https://img.shields.io/badge/MAIL:naver-0055FF?style=flat)](mailto:toxj17@naver.com)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">
 
