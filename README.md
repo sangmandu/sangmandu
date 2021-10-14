@@ -31,6 +31,8 @@
 ![TIL](https://img.shields.io/badge/NLP-DF8AB6?style=flat)
 ![TIL](https://img.shields.io/badge/CV-DF8AB6?style=flat)
 
+<img align='right' src="https://user-images.githubusercontent.com/45033215/137354800-6955ed40-380d-4402-bbb9-a0669c1ffd0e.png" height="120">
+
 ### What I Did
 > 2021
 
