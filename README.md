@@ -23,8 +23,8 @@
 * 👨‍👦‍👦 : Hanging with Friends
 * 🍽 : Famous Food Tour
 
-### CV
-[THIS]()
+### Documents about Me
+[![CV](https://img.shields.io/badge/CV-51FFA6?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_Kor.pdf)
 
 ### Stack
 ![TIL](https://img.shields.io/badge/Python-AEA5D4?style=flat)
@@ -38,4 +38,5 @@
 
 ### 2022년 52개의 성장
 #### 2022
-- 1st Week
+- Week 1 `Algorithm` `Recsys`
+- Week 2 `Recsys` `AI Tech Interview`
