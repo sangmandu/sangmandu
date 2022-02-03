@@ -35,8 +35,3 @@
 
 
 <img align='right' src="https://user-images.githubusercontent.com/45033215/137354800-6955ed40-380d-4402-bbb9-a0669c1ffd0e.png" height="120">
-
-### 2022년 52개의 성장
-#### 2022
-- Week 1 `Algorithm` `Recsys`
-- Week 2 `Recsys` `AI Tech Interview`
