@@ -25,6 +25,8 @@
 
 ### Documents about Me
 [![CV](https://img.shields.io/badge/CV-51FFA6?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_Kor.pdf)
+[![PORTFOLIO](https://img.shields.io/badge/CV-AADDCC?style=flat)](https://sangmandu.develofolio.com/)
+
 
 ### Stack
 ![TIL](https://img.shields.io/badge/Python-AEA5D4?style=flat)
