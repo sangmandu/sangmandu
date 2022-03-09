@@ -14,7 +14,7 @@
 ### Road I Have Walked
 * 👟 AI BoostCamp 2st (21.08.02~21.12.27)
 * 👟 Programmers AI School 1st(20.11.30~21.04.04)
-* 👟 Dankook University Automobile Security Lab (20.03.02~21.11.27)
+* 👟 Dankook University Automobile Security Lab (20.03.02~20.11.27)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" height="165">
 
