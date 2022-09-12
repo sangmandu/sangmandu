@@ -24,7 +24,7 @@
 * 🍽 : Famous Food Tour
 
 ### Documents about Me
-[![CV](https://img.shields.io/badge/CV-51FFA6?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_CV_0817.pdf)
+[![CV](https://img.shields.io/badge/CV-51FFA6?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_CV_0912.pdf)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-AADDCC?style=flat)](https://sangmandu.develofolio.com/)
 
 
