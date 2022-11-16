@@ -18,16 +18,32 @@ Majored in Software Develpoment at Dankook Univ.
    
 
 ## Documents about Me
-[![CV](https://img.shields.io/badge/CV-51FFA6?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_CV_0912.pdf)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-AADDCC?style=flat)](https://www.notion.so/Junior-NLP-Researcher-21152e1e182e45f1a55deed0abd133e3)
+[![CV](https://img.shields.io/badge/CV-262627?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_CV_0912.pdf)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-262627?style=flat)](https://www.notion.so/Junior-NLP-Researcher-21152e1e182e45f1a55deed0abd133e3)
 
 
 ## Stack
-![TIL](https://img.shields.io/badge/Python-AEA5D4?style=flat)
-![TIL](https://img.shields.io/badge/Pytorch-C186A4?style=flat)
-![TIL](https://img.shields.io/badge/NLP-DF8AB6?style=flat)
-![TIL](https://img.shields.io/badge/HuggingFace-F18614?style=flat)
-![TIL](https://img.shields.io/badge/RecSys-F1F6A4?style=flat)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sk-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=Hugo&logoColor=white"/>  
+  
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>  
+
+<br/>
+<br/> 
+  
+![TIL](https://img.shields.io/badge/NLP-EA4335?style=flat)
+![TIL](https://img.shields.io/badge/NLU-E95420?style=flat)
+![TIL](https://img.shields.io/badge/SentimentAnalysis-006241?style=flat)
+![TIL](https://img.shields.io/badge/QuestionAnswering-61DAFB?style=flat)  
+![TIL](https://img.shields.io/badge/MachineTranslation-0078D4?style=flat)
+![TIL](https://img.shields.io/badge/RecSys-412991?style=flat)
 
 ## Badge
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96" width=300 height=150>
