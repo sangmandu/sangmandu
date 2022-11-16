@@ -11,10 +11,10 @@
 ---
  
 ## Road I Have Walked
-Naver AI BoostCamp 2st  
-Programmers AI School 1st  
-Automobile Security Lab at Dankook Univ.  
-Majored in Software Develpoment at Dankook Univ.
+#### Naver AI BoostCamp 2st  
+#### Programmers AI School 1st  
+#### Automobile Security Lab at Dankook Univ.  
+#### Majored in Software Develpoment at Dankook Univ.
    
 
 ## Documents about Me
