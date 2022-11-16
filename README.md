@@ -30,8 +30,15 @@ Majored in Software Develpoment at Dankook Univ.
 ![TIL](https://img.shields.io/badge/RecSys-F1F6A4?style=flat)
 
 ## Badge
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96">  
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" height="165">  
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96" width=300 height=150>
+  
+<br/>
+<br/>
+  
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" width=380>  
+  
+<br/>  
+<br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmandu&layout=compact)](https://github.com/sangmandu/github-readme-stats)
 
