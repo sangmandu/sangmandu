@@ -9,8 +9,11 @@
 [![MAIL](https://img.shields.io/badge/MAIL:naver-0055FF?style=flat)](mailto:toxj17@naver.com)
 
 ---
- 
-## Road I Have Walked
+
+## Experience
+#### no experience
+  
+## Educations
 #### Naver AI BoostCamp 2st  
 #### Programmers AI School 1st  
 #### Automobile Security Lab at Dankook Univ.  
