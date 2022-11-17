@@ -10,7 +10,7 @@
 
 ---
 
-## Experience
+## Experiences
 #### no experience
   
 ## Educations
@@ -18,7 +18,8 @@
 #### Programmers AI School 1st  
 #### Automobile Security Lab at Dankook Univ.  
 #### Majored in Software Develpoment at Dankook Univ.
-   
+
+## Awards
 
 ## Documents about Me
 [![CV](https://img.shields.io/badge/CV-262627?style=flat)](https://nbviewer.org/github/sangmandu/sangmandu/blob/main/Sangmin%20Jeon_CV_0912.pdf)
