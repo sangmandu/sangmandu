@@ -11,7 +11,7 @@
 ---
 
 ## Experiences
-#### no experience
+#### Allganize AI Engineer
   
 ## Educations
 #### Naver AI BoostCamp 2st  
