@@ -1,4 +1,4 @@
-<div align="center">
+# <div align="center">
   
 # Sangmandu 🌌
 ### 전상민, Jeon Sangmin, NLP Researcher/Engineer  
@@ -11,13 +11,13 @@
 ---
 
 ## Experiences
-#### Allganize AI Engineer
+* Allganize AI Engineer
   
 ## Educations
-#### Naver AI BoostCamp 2st  
-#### Programmers AI School 1st  
-#### Automobile Security Lab at Dankook Univ.  
-#### Majored in Software Develpoment at Dankook Univ.
+* Naver AI BoostCamp 2st  
+* Programmers AI School 1st  
+* Automobile Security Lab at Dankook Univ.  
+* Majored in Software Develpoment at Dankook Univ.
 
 ## Awards
 
@@ -27,41 +27,14 @@
 
 
 ## Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sk-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>  
-<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=Hugo&logoColor=white"/>  
-  
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>  
-
-<br/>
-<br/> 
-  
-![TIL](https://img.shields.io/badge/NLP-EA4335?style=flat)
-![TIL](https://img.shields.io/badge/NLU-E95420?style=flat)  
-![TIL](https://img.shields.io/badge/SentimentAnalysis-F7931A?style=flat)
-![TIL](https://img.shields.io/badge/RelationExtraction-006241?style=flat)
-![TIL](https://img.shields.io/badge/QuestionAnswering-61DAFB?style=flat)
-![TIL](https://img.shields.io/badge/MachineTranslation-0078D4?style=flat)  
-![TIL](https://img.shields.io/badge/RecSys-412991?style=flat)  
+* Python
+* NLP
 
 ## Badge
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96" width=300 height=150>
-  
-<br/>
-<br/>
-  
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" width=380>  
-  
-<br/>  
-<br/>
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
+<div>
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soryrung96" width=300 height=150>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=sangmandu&theme=tokyonight" width=380>
 </div>
+
+  
+# </div>
